@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a full-stack developer with a strong frontend background in modern JavaScript frameworks like React and Next.js, along with TypeScript and Tailwind CSS. On the backend, I work with Node.js, Express, MongoDB, and PostgreSQL to build scalable and efficient web applications. I focus on clean code, performance, and real-world problem solving.
+I’m a Full-stack developer with a strong frontend background in modern JavaScript frameworks like React and Next.js, along with TypeScript and Tailwind CSS. On the backend, I work with Node.js, Express, MongoDB, and PostgreSQL to build scalable and efficient web applications. I focus on clean code, performance, and real-world problem solving.
 
 
 ## 🌐 Socials:
